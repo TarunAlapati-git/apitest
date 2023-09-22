@@ -1,7 +1,7 @@
 [
   {
     "title": "MONEY",
-    "childItem": [
+    "mList": [
       {
         "title": "mint",
         "description": "grow your savings. 3x faster.",
@@ -21,7 +21,7 @@
   },
   {
     "title": "BILLS",
-    "childItem": [
+    "mList": [
       {
         "title": "utility & all bills",
         "description": "the most rewarding way to pay your bills",
@@ -41,7 +41,7 @@
   },
   {
     "title": "BENEFITS",
-    "childItem": [
+    "mList": [
       {
         "title": "rewards",
         "description": "redeem coins for cashback",
