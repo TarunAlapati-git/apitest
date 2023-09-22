@@ -1,74 +1,72 @@
-{
-  "ParentItem": [
-    {
-      "title": "MONEY",
-      "childItem": [
-        {
-          "title": "mint",
-          "description": "grow your savings. 3x faster.",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "bank accounts",
-          "description": "check your bank balance",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "Scan n Pay",
-          "description": "Scan and Pay&pay",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        }
-      ]
-    },
-    {
-      "title": "BILLS",
-      "childItem": [
-        {
-          "title": "utility & all bills",
-          "description": "the most rewarding way to pay your bills",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "house rent",
-          "description": "pay rent with your credit card",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "education fees",
-          "description": "pay education fees with your credit card",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        }
-      ]
-    },
-    {
-      "title": "BENEFITS",
-      "childItem": [
-        {
-          "title": "rewards",
-          "description": "redeem coins for cashback",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "refer & earn",
-          "description": "assured cashback for bringing friends to CRED",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "coins",
-          "description": "use coins to claim rewards and other perks",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "vouchers",
-          "description": "vouchers you have won",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        },
-        {
-          "title": "brand offers",
-          "description": "get exclusive offers on brands while using CRED pay",
-          "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "MONEY",
+    "childItem": [
+      {
+        "title": "mint",
+        "description": "grow your savings. 3x faster.",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "bank accounts",
+        "description": "check your bank balance",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "Scan n Pay",
+        "description": "Scan and Pay&pay",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      }
+    ]
+  },
+  {
+    "title": "BILLS",
+    "childItem": [
+      {
+        "title": "utility & all bills",
+        "description": "the most rewarding way to pay your bills",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "house rent",
+        "description": "pay rent with your credit card",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "education fees",
+        "description": "pay education fees with your credit card",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      }
+    ]
+  },
+  {
+    "title": "BENEFITS",
+    "childItem": [
+      {
+        "title": "rewards",
+        "description": "redeem coins for cashback",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "refer & earn",
+        "description": "assured cashback for bringing friends to CRED",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "coins",
+        "description": "use coins to claim rewards and other perks",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "vouchers",
+        "description": "vouchers you have won",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      },
+      {
+        "title": "brand offers",
+        "description": "get exclusive offers on brands while using CRED pay",
+        "logo": "https://tarunalapati-git.github.io/apitest/profits.png"
+      }
+    ]
+  }
+]
